@@ -1,0 +1,25 @@
+body,html {
+	margin: 0;
+	height: 100%;
+}
+
+.block1 {
+	height: 100%;
+	display: flex;
+	flex: 1 1 auto;
+	background-color: navy;
+}
+
+.block2 {
+	height: 100%;
+	display: flex;
+	flex: 1 1 auto;
+	background-color: gold;
+}
+
+.block3 {
+	height: 100%;
+	display: flex;
+	flex: 1 1 auto;
+	background-color: silver;
+}
